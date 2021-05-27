@@ -1,0 +1,3 @@
+[submodule "react-socketio-videochat_client"]
+	path = react-socketio-videochat_client
+	url = git@github.com:Olex-Engineering/react-socketio-videochat_client.git
